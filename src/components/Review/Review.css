@@ -1,0 +1,13 @@
+.total-review{
+    display: flex;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.review-summary{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.review-cost{
+    width: 72%;
+    margin-top: -20px;
+}

@@ -12,3 +12,14 @@
     transform: rotate(360deg);
   }
 }
+.name:hover{
+  background-color: wheat;
+  border: 1px solid rgb(241, 213, 213);
+  padding: 7px;
+  border-radius: 5px;
+}
+.header{
+  text-align: center;
+  margin: 35px;
+  font-weight: 620;
+}

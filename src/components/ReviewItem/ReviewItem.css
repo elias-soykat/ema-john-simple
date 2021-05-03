@@ -1,0 +1,28 @@
+.review-info{
+    padding: 30px;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid lightgray;
+}
+.review-info h4{
+    color: blue;
+}
+.display{
+    display: flex;
+    margin-bottom: -10px;
+}
+.remove-button{
+    width: 55%;
+    line-height: 25px;
+}
+.shipping-rules{
+    line-height: 12px;
+}
+.shipping-rules p{
+    margin-left: 35px;
+}
+.shipping-rules label{
+    font-size: 17.5px;
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+    color: green;
+}

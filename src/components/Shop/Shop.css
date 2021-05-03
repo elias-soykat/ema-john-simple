@@ -2,8 +2,16 @@
     display: flex;
 }
 .product-container{
-    width: 72%;
+    width: 75%;
     margin-right: 5px;
     border-right: 1px solid gray;
     margin-left: 20px;
+}
+.name{
+    text-decoration: none;
+}
+.header-text{
+    text-align: center;
+    margin: 60px;
+    font-weight: 560;
 }

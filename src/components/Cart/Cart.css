@@ -1,5 +1,33 @@
 .order-summary{
-    margin-left: 20px;
+    margin-left: 30px;
     margin-right: 0px;
     font-size: 17.5px;
+    text-align: center;
+}
+.order-summary h3{
+    margin-top: 10px;
+    background-color: wheat;
+    padding: 14px;
+    line-height: 22px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -10px;
+    border-radius: 5px;
+    width: 230px;
+}
+.order-cart{
+    line-height: 18px;
+}
+.review-button{
+    width: 220px;
+    height: 38px;
+    font-size: 15.5px;
+    border: 1px solid darkgray;
+    background-color: rgb(231, 186, 72);
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 549.5;
+}
+.review-button:hover{
+    background-color: wheat;
 }
