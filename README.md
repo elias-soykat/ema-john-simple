@@ -1,8 +1,12 @@
-# A full-stack E-Commerce website where you can check your favourite products with dummy proudct details
+### A full-stack E-Commerce website where you can check your favourite products with dummy proudct details
    
    • An authenticated user can order his/her desired services from our web app
+   <br/>
+   
    • Google sign in, FB sign in, Email & Password Sign in/Register. (all sign in method)
+   <br/>
    • Product inventory where seller can add their product for showing it home page.
+   <br/>
    • Users can purchase their desired products and pay online using credit card
 
 
